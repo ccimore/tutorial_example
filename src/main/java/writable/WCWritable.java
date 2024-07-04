@@ -6,6 +6,8 @@ import java.io.DataInput;
         import org.apache.hadoop.io.WritableUtils;
         import org.apache.hadoop.io.WritableComparable;
 
+//        Since using as key, need to implement WritableComparable rather than just Writable.  All Writable implementations must have
+//a constructor so mapreduce framework can initialize them
 public class WCWritable implements WritableComparable<WCWritable>
 {
     private String word;

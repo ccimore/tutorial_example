@@ -4,43 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d35b23-24be-43fa-9c19-e5485e100e04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvenOddMapReduceApp/MyDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvenOddMapReduceApp/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvenOddMapReduceApp/MyReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvenOddMapReduceApp/evenodd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankAccountApp/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankAccountApp/BankAccountApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankAccountApp/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankAccountApp/IBaseRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bankAccountApp/Savings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facebookAdApp/FacebookDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facebookAdApp/FacebookMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facebookAdApp/FacebookReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facebookAdApp/fb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapReduceApp/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapReduceApp/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapReduceApp/WordCountWIthCombiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapReduceApp/mapReduceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapReduceApp/word_count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/emailApp/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/emailApp/EmailApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studentDatabaseApp/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studentDatabaseApp/StudentDatabaseApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/CSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/writable/WCMapper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/writable/WCReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/writable/WCWritable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/writable/wc_driver.java" afterDir="false" />
+    <list default="true" id="63d35b23-24be-43fa-9c19-e5485e100e04" name="Changes" comment="-tutorial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/writable/WCMapper" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/writable/WCMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/writable/WCWritable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/writable/WCWritable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1b35f5a0-025b-46b4-bd22-44a9640c98cd" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,8 +56,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/cimor/IdeaProjects/UdemyJavaProjects/src/main/java/facebookAdApp",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.50229883",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -112,7 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718480763560</updated>
     </task>
+    <task id="LOCAL-00001" summary="-tutorial">
+      <created>1720043264003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720043264003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="-tutorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
