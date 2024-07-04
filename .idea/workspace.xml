@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d35b23-24be-43fa-9c19-e5485e100e04" name="Changes" comment="third commit" />
+    <list default="true" id="63d35b23-24be-43fa-9c19-e5485e100e04" name="Changes" comment="third commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/distributedCache/designation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/cimor/IdeaProjects/UdemyJavaProjects/src/main/java/fraudDetection",
+    "last_opened_file_path": "C:/Users/cimor/IdeaProjects/UdemyJavaProjects/src/main/java/distributedCache",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.50229883",
@@ -60,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cimor\IdeaProjects\UdemyJavaProjects\src\main\java\distributedCache" />
       <recent name="C:\Users\cimor\IdeaProjects\UdemyJavaProjects\src\main\java\fraudDetection" />
       <recent name="C:\Users\cimor\IdeaProjects\UdemyJavaProjects\src\main\java\facebookAdApp" />
       <recent name="C:\Users\cimor\IdeaProjects\UdemyJavaProjects\src\main\java\EvenOddMapReduceApp" />
