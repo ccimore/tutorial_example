@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63d35b23-24be-43fa-9c19-e5485e100e04" name="Changes" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/distributedCache/designation.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
